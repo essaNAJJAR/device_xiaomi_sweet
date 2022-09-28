@@ -1,6 +1,9 @@
 # Display Feature
 type hal_displayfeature_xiaomi_hwservice, hwservice_manager_type;
 
+# Dolby
+type hal_dms_hwservice, hwservice_manager_type;
+
 # Fingeprint
 type hal_fingerprint_hwservice_xiaomi, hwservice_manager_type;
 
